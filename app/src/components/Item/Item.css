@@ -1,0 +1,29 @@
+.Item {
+    margin: 50px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 18px;
+    background-color: whitesmoke;
+    width: 400px;
+}
+
+.Name {
+    margin: 2px;
+    font-weight: bold;
+    background-color: beige;
+    text-align: center;
+}
+
+.Notes {
+    margin-top: 4px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+.Pickup {
+    margin-top: 4px;
+    font-weight: bold;
+    background-color: bisque;
+}
